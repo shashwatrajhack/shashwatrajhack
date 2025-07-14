@@ -29,3 +29,6 @@ JavaScript, TypeScript, C++
 React.js, Next.js, Tailwind CSS, Node.js, Express.js, MongoDB
 PostgreSQL, Git, Vercel, Cloudflare
 
+
+
+
