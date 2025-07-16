@@ -37,11 +37,46 @@
 
 ---
 
-### 🚀 Tech Stack
+### 📊 My Developer Stats
 
-```txt
-Languages: JavaScript, TypeScript, C++
-Frontend: React.js, Next.js, Tailwind CSS
-Backend: Node.js, Express.js
-Databases: MongoDB, PostgreSQL
-DevOps: Git, GitHub, Vercel, Cloudflare
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=shashwatrajhack&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=shashwatrajhack&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 💻 Most Used Languages
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwatrajhack&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shashwatrajhack&theme=tokyonight&column=7&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+### 🗓️ Contribution Calendar
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/31C48D/shashwatrajhack" alt="Shashwat's GitHub contribution graph" />
+</p>
+
+---
+
+### 🔔 Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+<p align="center">
+  Built with 💻 and 🔥 by <strong>Shashwat Raj</strong>
+</p>
