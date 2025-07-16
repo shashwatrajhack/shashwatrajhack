@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/shashwatrajhack/shashwatrajhack/blob/main/Shashwat_Resume.pdf" target="_blank">
+  <a href="https://github.com/shashwatrajhack/shashwatrajhack/raw/main/Shashwat_Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-%F0%9F%93%9D-red?style=for-the-badge" alt="Resume">
   </a>
 </p>
