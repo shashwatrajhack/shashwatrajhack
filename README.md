@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" alt="tech banner" />
+  <img src="https://i.imgur.com/YOUR_IMAGE.gif" width="600" alt="cyberpunk coding banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Shashwat Raj</h1>
