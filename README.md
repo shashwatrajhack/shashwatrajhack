@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohc0XJ4RkJjDW6cXe/giphy.gif" width="600" alt="dev mode banner" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" alt="tech banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Shashwat Raj</h1>
