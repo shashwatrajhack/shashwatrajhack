@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="600" alt="anime coder boy banner" />
+  <img src="https://i.imgur.com/yourAnimeBoyImage.gif" width="600" alt="anime coder boy banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Shashwat Raj</h1>
