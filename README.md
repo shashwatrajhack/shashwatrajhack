@@ -49,7 +49,7 @@
 ### 💻 Most Used Languages
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwatrajhack&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwatrajhack&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,shell" />
 </p>
 
 ---
